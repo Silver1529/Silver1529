@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://SEU-LINK-DA-VERCEL.vercel.app](https://miguel-silva-tech.vercel.app/)">
+  <a href="https://miguel-silva-tech.vercel.app/">
     <img src="https://img.shields.io/badge/✨_Visite_meu_Portfólio_Online-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link">
   </a>
 </p>
@@ -87,7 +87,7 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
     <td width="50%">
       <h3 align="center">Meu Portfólio</h3>
       <p align="center">
-     Saiba mais sobre os projetos dos quais participei, onde demonstrei criatividade e utilizei as ferramentas da melhor forma para gerar resultados.
+       Saiba mais sobre os projetos dos quais participei, onde demonstrei criatividade e utilizei as ferramentas da melhor forma para gerar resultados.
       </p>
       <p align="center">
         <code>Next.js 14</code> <code>Framer Motion</code> <code>Tailwind</code>
