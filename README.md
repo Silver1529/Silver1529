@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://miguel-silva-tech.vercel.app/">
+  <a href="https://miguel-silva-tech.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/✨_Visite_meu_Portfólio_Online-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link">
   </a>
 </p>
@@ -22,29 +22,29 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
 ## 🛠️ Arsenal Tecnológico
 
 ### **Frontend & Interface**
-<p>
+<div align="left">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
+</div>
 
 ### **Backend & Automação**
-<p>
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
+</div>
 
 ### **Dados & DevOps**
-<p>
+<div align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+</div>
 
 ---
 
@@ -78,7 +78,7 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
         Aplicação web completa que adapta o cálculo da Pegada de Carbono Global para o contexto brasileiro.
       </p>
       <p align="center">
-        <a href="https://pegadasecologicas.vercel.app/">Ver Projeto</a>
+        <a href="https://pegadasecologicas.vercel.app/" target="_blank">Ver Projeto</a>
       </p>
       <p align="center">
         <code>Next.js</code> <code>TypeScript</code> <code>Vercel</code>
@@ -101,8 +101,8 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="165" />
 </p>
 
 ---
@@ -111,9 +111,9 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-bahia-30094234b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:miguelbahia0602@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
