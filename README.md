@@ -1,8 +1,8 @@
 <h1 align="center">Fala aí! Eu sou o Miguel 👋</h1>
 
 <p align="center">
-  Full Stack Developer | Ciência da Computação @ UNIP<br>
-  Atualmente focado em <strong>Automação, Engenharia de Dados e Otimização de Sistemas</strong>.
+  <strong>Full Stack Developer | Ciência da Computação @ UNIP</strong><br>
+  Atualmente focado em <strong>Arquitetura NestJS, Engenharia de Dados e Experiência do Usuário</strong>.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por criar soluções que resolvem problemas reais. No meu estágio na **Compare Plano de Saúde**, desenvolvo ferramentas que economizam horas de trabalho manual, desde bots de automação até extensões de navegador integradas a APIs do Google e MongoDB.
+Sou apaixonado por criar soluções que resolvem problemas reais. No meu estágio na **Compare Plano de Saúde**, desenvolvo ferramentas que economizam horas de trabalho manual, desde bots de automação até extensões de navegador integradas a APIs do Google e MongoDB. Atualmente, estou construindo o **Coinnect**, um ecossistema financeiro familiar moderno.
 
 ---
 
@@ -32,9 +32,9 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
 
 ### **Backend & Automação**
 <div align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 
@@ -53,21 +53,21 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">CRM Core & Extensões</h3>
+      <h3 align="center">Coinnect</h3>
       <p align="center">
-        Extensão Chrome e sistema backend que integra <strong>Google APIs</strong> e <strong>MongoDB</strong>. Otimiza o fluxo de vendas e elimina tarefas manuais dos operadores.
+        Painel financeiro familiar Full Stack com autenticação <strong>JWT</strong> e banco <strong>MongoDB Atlas</strong>. Focado em UX e gestão de ativos.
       </p>
       <p align="center">
-        <code>Node.js</code> <code>React</code> <code>Chrome API</code>
+        <code>NestJS</code> <code>Next.js</code> <code>Tailwind</code>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Bots de Automação (QA & ETL)</h3>
+      <h3 align="center">CRM Core & Extensões</h3>
       <p align="center">
-        Scripts em Python para testes de estresse (Fuzzing), alertas de retenção via WhatsApp e geração de relatórios complexos com Excel.js.
+        Extensão Chrome que integra <strong>Google APIs</strong> e <strong>MongoDB</strong>. Otimiza o fluxo de vendas no meu estágio atual.
       </p>
       <p align="center">
-        <code>Python</code> <code>Selenium</code> <code>Pandas</code>
+        <code>Node.js</code> <code>React</code> <code>Chrome API</code>
       </p>
     </td>
   </tr>
@@ -85,12 +85,12 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Meu Portfólio</h3>
+      <h3 align="center">Bots de Automação</h3>
       <p align="center">
-       Saiba mais sobre os projetos dos quais participei, onde demonstrei criatividade e utilizei as ferramentas da melhor forma para gerar resultados.
+        Scripts em Python para testes de estresse e alertas de retenção via WhatsApp.
       </p>
       <p align="center">
-        <code>Next.js 14</code> <code>Framer Motion</code> <code>Tailwind</code>
+        <code>Python</code> <code>Selenium</code> <code>Pandas</code>
       </p>
     </td>
   </tr>
@@ -101,8 +101,8 @@ Sou apaixonado por criar soluções que resolvem problemas reais. No meu estági
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Langs" height="175" />
 </p>
 
 ---
