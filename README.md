@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>🚀 Desenvolvedor Full Stack | Ciência da Computação @ UNIP</strong><br>
-  "Throughout Heaven and Earth, I alone am the honored one."
+  Focado em Construir Soluções Eficientes e Seguras.
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-Aos 20 anos, utilizo meus **Six Eyes** para enxergar soluções que outros ignoram. No meu estágio na **Compare Plano de Saúde**, expando meu domínio sobre automação e engenharia de dados. 
+Aos 20 anos, busco transformar a complexidade em eficiência. No meu estágio na **Compare Plano de Saúde**, foco no desenvolvimento de automações e engenharia de dados para otimizar fluxos de trabalho. 
 
-Atualmente, dedico meu tempo ao **Coinnect**, onde construo uma infraestrutura financeira que é, francamente, *unlimited*.
+Atualmente, dedico meu tempo ao **Coinnect**, um ecossistema financeiro familiar moderno focado em segurança e escalabilidade.
 
 ---
 
@@ -33,9 +33,9 @@ Atualmente, dedico meu tempo ao **Coinnect**, onde construo uma infraestrutura f
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><strong>Frontend</strong></td>
-    <td align="center" width="33%"><strong>Backend</strong></td>
-    <td align="center" width="33%"><strong>Tools & Data</strong></td>
+    <td align="center" width="33%"><strong>Frontend Manipulation</strong></td>
+    <td align="center" width="33%"><strong>Backend Sorcery</strong></td>
+    <td align="center" width="33%"><strong>Data & DevOps Domain</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -75,15 +75,15 @@ Atualmente, dedico meu tempo ao **Coinnect**, onde construo uma infraestrutura f
 
 ---
 
-### 📊 Estatísticas (Six Eyes Analytics)
+### 📊 Estatísticas (Cursed Energy Analytics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Stats de Miguel" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens de Miguel" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Stats de Miguel" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens de Miguel" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silver1529&theme=radical&hide_border=true" alt="Streak de Miguel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silver1529&theme=tokyonight&hide_border=true" alt="Streak de Miguel" />
 </p>
 
 ---
