@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Miguel%20Bahia&fontSize=70&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Miguel%20Bahia&fontSize=70&animation=fadeIn&fontColor=FACC15" />
 </div>
 
 <p align="center">
-  <strong>🚀 Full Stack Developer | Ciência da Computação @ UNIP</strong><br>
-  Manipulando *Infinito* de Cursed Data e Otimizando Sistemas.<br>
-  "Throughout Heaven and Earth, I alone am the honored one."
+  <strong>🚀 Desenvolvedor Full Stack & Entusiasta de Engenharia de Dados</strong><br>
+  🎓 Ciência da Computação @ <strong>UNIP Tatuapé</strong> (2º Semestre)<br>
+  💼 Estagiário de Backend na <strong>Compare Plano Saúde</strong>
 </p>
 
 <p align="center">
@@ -20,33 +20,23 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Vp3ffG8pX4sP07_p8C/giphy.gif" width="250" alt="Gojo Blindfold" />
-</div>
+---
+
+### 👨‍💻 Sobre Mim
+
+Aos 20 anos, busco transformar a complexidade em eficiência. No meu dia a dia como estagiário na **Compare Plano Saúde**, desenvolvo automações e extensões que otimizam o fluxo de trabalho de vendas. 
+
+Atualmente, dedico meu tempo livre ao **Coinnect**, um ecossistema financeiro familiar moderno construído com a stack mais robusta do mercado. Meu objetivo é dominar a arquitetura de sistemas e a otimização de dados.
 
 ---
 
-### 👨‍💻 Sobre Mim (Sem Filtro de Vazio)
-
-Aos 20 anos, utilizo meus Six Eyes para enxergar soluções que outros ignoram. No meu estágio na **Compare Plano de Saúde**, expando meu domínio sobre Cursed Energy (automação e engenharia de dados), automatizando fluxos complexos.
-
-Meu projeto paralelo atual é o **Coinnect**, onde construo uma infraestrutura de dados financeira que é, francamente, *unlimited*. Meu objetivo é dominar a arquitetura de sistemas com a precisão de um "Hollow Purple".
-
----
-
-### Separator
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l4pT066K8K8iN8Gk8/giphy.gif" width="300" alt="Hollow Purple Separator" />
-</div>
-
-### 🛠️ Meu Arsenal Tecnológico (A Stack dos Six Eyes)
+### 🛠️ Meu Arsenal Tecnológico
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><strong>Frontend Manipulation</strong></td>
-    <td align="center" width="33%"><strong>Backend Sorcery</strong></td>
-    <td align="center" width="33%"><strong>Data & DevOps Domain</strong></td>
+    <td align="center" width="33%"><strong>Frontend</strong></td>
+    <td align="center" width="33%"><strong>Backend</strong></td>
+    <td align="center" width="33%"><strong>Tools & Data</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -72,30 +62,34 @@ Meu projeto paralelo atual é o **Coinnect**, onde construo uma infraestrutura d
 
 ---
 
-### 🏆 Projetos em Destaque (Cursed Techniques)
+### 🏆 Projetos em Destaque
 
 <div align="center">
   
-| Projeto | Técnica | Descrição |
+| Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **💰 Coinnect** | *Unlimited Void* | Painel financeiro familiar Full Stack. Segurança via env e JWT. |
-| **🔌 CRM Extensões** | *Reverse Cursed Technique* | Extensão Chrome e Backend para integrar Google APIs. Otimiza o fluxo de vendas. |
-| **🌍 Eco Calc** | *Cursed Speech* | Calculadora de Pegada de Carbono adaptada para o cenário brasileiro. |
+| **💰 Coinnect** | Painel financeiro familiar Full Stack com autenticação JWT e segurança via env. | `NestJS`, `Next.js`, `MongoDB` |
+| **🔌 CRM Extensões** | Extensão Chrome e Backend para integração de Google APIs e automação de vendas. | `React`, `Node.js`, `Chrome API` |
+| **🌍 Eco Calc** | Calculadora de Pegada de Carbono adaptada para o cenário brasileiro. | `TypeScript`, `Next.js`, `Vercel` |
 
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub (Six Eyes Analytics)
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme= radical&include_all_commits=true&count_private=true&hide_border=true" alt="Stats de Miguel" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Stats de Miguel" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens de Miguel" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Silver1529&theme=radical&hide_border=true" alt="Streak de Miguel" />
 </p>
 
 ---
 
 <p align="center">
-  <em>"Don't get cocky. Don't underestimate them. Think of them as cursed tools."</em><br>
-  Construído com muito Cursed Energy e ☕ por <strong>Miguel Bahia</strong>.
+  <em>"A tecnologia é o meio, a solução é o fim."</em><br>
+  Construído com ☕ e muito código por <strong>Miguel Bahia</strong>.
 </p>
