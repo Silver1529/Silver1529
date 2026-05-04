@@ -68,7 +68,7 @@ Atualmente dedico tempo ao **Coinnect** — um ecossistema financeiro familiar m
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **🎮 [CRUD Dungeon](https://crud-dungeon.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real em MySQL/AWS. | `Next.js`, `TypeScript`, `Kaplay`, `MySQL`, `AWS` |
+| **🎮 [CRUD Dungeon](https://crud-dungeon-12hddkkwr-migs-projects-98e255d5.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real em MySQL/AWS. | `Next.js`, `TypeScript`, `Kaplay`, `MySQL`, `AWS` |
 | **💰 Coinnect** | Painel financeiro familiar full-stack, com foco em segurança. | `NestJS`, `Next.js`, `MongoDB` |
 | **🔌 CRM Extensões** | Integração de Google APIs para automação de vendas no estágio. | `React`, `Node.js`, `Chrome API` |
 | **🌍 Eco Calc** | Calculadora de Pegada de Carbono adaptada ao cenário brasileiro. | `TypeScript`, `Next.js`, `Vercel` |
