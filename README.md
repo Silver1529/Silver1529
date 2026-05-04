@@ -80,12 +80,12 @@ Atualmente dedico tempo ao **Coinnect** — um ecossistema financeiro familiar m
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" alt="Linguagens" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Silver1529&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Silver1529&theme=tokyonight&hide_border=true&v=1" alt="Streak" />
 </p>
 
 ---
