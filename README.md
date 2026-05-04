@@ -68,8 +68,8 @@ Atualmente dedico tempo ao **Coinnect** — um ecossistema financeiro familiar m
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **🎮 [CRUD Dungeon](https://crud-dungeon.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real em MySQL/AWS, com painel ao vivo de queries, network e estatísticas. | `Next.js 16`, `TypeScript`, `Kaplay`, `MySQL`, `AWS RDS`, `Vercel` |
-| **💰 Coinnect** | Painel financeiro familiar full-stack, com autenticação segura por env. | `NestJS`, `Next.js`, `MongoDB` |
+| **🎮 [CRUD Dungeon](https://crud-dungeon.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real em MySQL/AWS. | `Next.js`, `TypeScript`, `Kaplay`, `MySQL`, `AWS` |
+| **💰 Coinnect** | Painel financeiro familiar full-stack, com foco em segurança. | `NestJS`, `Next.js`, `MongoDB` |
 | **🔌 CRM Extensões** | Integração de Google APIs para automação de vendas no estágio. | `React`, `Node.js`, `Chrome API` |
 | **🌍 Eco Calc** | Calculadora de Pegada de Carbono adaptada ao cenário brasileiro. | `TypeScript`, `Next.js`, `Vercel` |
 
@@ -80,8 +80,8 @@ Atualmente dedico tempo ao **Coinnect** — um ecossistema financeiro familiar m
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Linguagens" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silver1529&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver1529&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens" height="180" />
 </p>
 
 <p align="center">
