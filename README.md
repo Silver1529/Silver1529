@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=Miguel%20Bahia&fontSize=72&animation=fadeIn&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=38BDF8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=Miguel%20Bahia&fontSize=72&animation=fadeIn&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=18&descColor=38BDF8" />
 
 <a href="https://github.com/Silver1529">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIP;Transformando+complexidade+em+efici%C3%AAncia." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Engenheiro+de+Software;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIP;Transformando+complexidade+em+efici%C3%AAncia." />
 </a>
 
 <p>
@@ -30,8 +30,8 @@
 ```ts
 const miguel = {
   idade: 20,
-  papel: "Desenvolvedor Full Stack",
-  estagio: "Compare Plano de Saúde",
+  papel: "Engenheiro de Software",
+  empresa: "Compare Plano de Saúde",
   foco: ["automação", "engenharia de dados", "produtos escaláveis"],
   projeto_atual: "Coinnect — ecossistema financeiro familiar",
   filosofia: "A tecnologia é o meio, a solução é o fim."
