@@ -1,31 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=Miguel%20Bahia&fontSize=72&animation=fadeIn&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=18&descColor=38BDF8" />
+<img alt="Miguel Bahia — Software Engineer" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:0F172A,100:1E293B&height=170&section=header&text=Miguel%20Bahia&fontSize=64&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Produtos%20Escal%C3%A1veis&descAlignY=66&descSize=16&descColor=38BDF8&animation=fadeIn" />
 
 <a href="https://github.com/Silver1529">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Engenheiro+de+Software;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIP;Transformando+complexidade+em+efici%C3%AAncia." />
+  <img alt="Transformando complexidade em eficiência · Ciência da Computação na UNIP · NestJS, Next.js, TypeScript" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Transformando+complexidade+em+efici%C3%AAncia.;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIP;NestJS+%C2%B7+Next.js+%C2%B7+TypeScript" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Silver1529&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Silver1529?label=Followers&style=for-the-badge&color=0F172A&labelColor=0F172A" />
+  <a href="https://www.linkedin.com/in/miguel-bahia-30094234b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://miguel-silva-tech.vercel.app/" target="_blank">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-0B1120?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:miguelbahia0602@gmail.com">
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-<a href="https://www.linkedin.com/in/miguel-bahia-30094234b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:miguelbahia0602@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://miguel-silva-tech.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Sobre mim
+## Sobre mim
 
 ```ts
 const miguel = {
@@ -33,76 +30,78 @@ const miguel = {
   papel: "Engenheiro de Software",
   empresa: "Compare Plano de Saúde",
   foco: ["automação", "engenharia de dados", "produtos escaláveis"],
-  projeto_atual: "Coinnect — ecossistema financeiro familiar",
-  filosofia: "A tecnologia é o meio, a solução é o fim."
+  construindo_agora: "SyncRoutine — rastreamento de tempo e performance pessoal",
+  stack_do_dia_a_dia: ["NestJS", "Next.js", "TypeScript", "MongoDB"],
+  filosofia: "A tecnologia é o meio, a solução é o fim.",
 };
 ```
 
 <br>
 
-## 🛠 &nbsp; Stack
+## Stack
 
 <div align="center">
 
-**Frontend**
+**Front-end**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
+<img alt="Next.js, React, TypeScript, Tailwind, HTML, CSS" src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
 
-**Backend**
+**Back-end**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,express,selenium" />
+<img alt="NestJS, Node.js, Python, Express, Selenium" src="https://skillicons.dev/icons?i=nestjs,nodejs,python,express,selenium" />
 
-**Data & DevOps**
+**Dados & Infra**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,docker,git,github" />
+<img alt="MongoDB, PostgreSQL, MySQL, AWS, Docker, Git, GitHub" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,docker,git,github" />
 
 </div>
 
 <br>
 
-## 💼 &nbsp; Projetos em destaque
+## Projetos
 
-<div align="center">
-
-| Projeto | Descrição | Stack |
+| Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| 🎮 **[CRUD Dungeon](https://crud-dungeon.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real em MySQL/AWS. | `Next.js` `TypeScript` `Kaplay` `MySQL` `AWS` |
-| 💰 **Coinnect** | Painel financeiro familiar full-stack, com foco em segurança. | `NestJS` `Next.js` `MongoDB` |
-| 🔌 **CRM Extensões** | Integração de Google APIs para automação de vendas. | `React` `Node.js` `Chrome API` |
-| 🌍 **Eco Calc** | Calculadora de Pegada de Carbono no cenário brasileiro. | `TypeScript` `Next.js` `Vercel` |
-
-</div>
+| ⏱️ **SyncRoutine** | Rastreador de tempo e performance pessoal. API NestJS e painel Next.js sobre MongoDB Atlas, com contratos Zod compartilhados entre web e o futuro app mobile. Relatórios diário, semanal, mensal e anual agregados no fuso do usuário. | `NestJS` `Next.js` `MongoDB` `Zod` |
+| 🎮 **[CRUD Dungeon](https://crud-dungeon.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real rodando em MySQL na AWS. | `Next.js` `TypeScript` `Kaplay` `MySQL` `AWS` |
+| 💰 **Coinnect** | Painel financeiro familiar full-stack, com segurança como requisito central. | `NestJS` `Next.js` `MongoDB` |
+| 🔌 **CRM Extensões** | Extensão de navegador integrando Google APIs para automatizar rotinas de vendas. | `React` `Node.js` `Chrome API` |
+| 🌍 **Eco Calc** | Calculadora de pegada de carbono ajustada ao cenário brasileiro. | `TypeScript` `Next.js` `Vercel` |
 
 <br>
 
-## 📊 &nbsp; Estatísticas
+## Estatísticas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Silver1529&theme=tokyonight" />
+<img alt="Resumo do perfil no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Silver1529&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Silver1529&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Silver1529&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Silver1529&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Silver1529&theme=tokyonight&utcOffset=-3" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Silver1529&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Silver1529&theme=tokyonight" />
+<img alt="Linguagem com mais commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Silver1529&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Silver1529&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Silver1529&theme=tokyonight&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+<br><br>
+
+<details>
+<summary><b>Mais métricas</b></summary>
+<br>
+<img alt="Estatísticas gerais" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Silver1529&theme=tokyonight" />
+<img alt="Horários mais produtivos" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Silver1529&theme=tokyonight&utcOffset=-3" />
+<br><br>
+<img alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Silver1529&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</details>
 
 </div>
 
 <br>
 
-## 🐍 &nbsp; Atividade
+## Atividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Silver1529/Silver1529/output/snake.svg" alt="Snake animation" />
+  <img alt="Gráfico de contribuições em animação de cobrinha" src="https://raw.githubusercontent.com/Silver1529/Silver1529/output/snake.svg" />
 </div>
 
 <br>
@@ -111,7 +110,10 @@ const miguel = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer&reversal=true" />
+<img alt="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=Silver1529&style=flat-square&color=38BDF8&label=visitas" />
+<img alt="Seguidores" src="https://img.shields.io/github/followers/Silver1529?style=flat-square&color=38BDF8&labelColor=0B1120&label=seguidores" />
+
+<br><br>
 
 <em>Construído com código limpo e muito ☕ por <strong>Miguel Bahia</strong>.</em>
 
