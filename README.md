@@ -44,7 +44,7 @@ const miguel = {
 
 **Front-end**
 
-<img alt="Next.js, React, TypeScript, Tailwind, HTML, CSS" src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
+<img alt="Next.js, React, TypeScript, Three.js, Tailwind, HTML, CSS" src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,tailwind,html,css" />
 
 **Back-end**
 
@@ -63,6 +63,7 @@ const miguel = {
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
 | ⏱️ **SyncRoutine** | Rastreador de tempo e performance pessoal. API NestJS e painel Next.js sobre MongoDB Atlas, com contratos Zod compartilhados entre web e o futuro app mobile. Relatórios diário, semanal, mensal e anual agregados no fuso do usuário. | `NestJS` `Next.js` `MongoDB` `Zod` |
+| 🎲 **[D20 Software House](https://d20-software-house.vercel.app/)** | Portfólio de software house com abertura em WebGL: um icosaedro real de 20 faces numeradas cai, quica e crava no 20. A orientação de aterrissagem sai de um quaternion (`setFromUnitVectors`), não de tentativa e erro — erro medido de `4.4e-16`. Contraste WCAG AA calculado, não estimado. | `Three.js` `React 19` `TypeScript` `Vite` |
 | 🎮 **[CRUD Dungeon](https://crud-dungeon.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real rodando em MySQL na AWS. | `Next.js` `TypeScript` `Kaplay` `MySQL` `AWS` |
 | 💰 **Coinnect** | Painel financeiro familiar full-stack, com segurança como requisito central. | `NestJS` `Next.js` `MongoDB` |
 | 🔌 **CRM Extensões** | Extensão de navegador integrando Google APIs para automatizar rotinas de vendas. | `React` `Node.js` `Chrome API` |
