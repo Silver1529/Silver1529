@@ -62,7 +62,7 @@ const miguel = {
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| 🛰️ **GeoSort** | Compara 6 algoritmos de ordenação em C sobre um catálogo de imagens de satélite da Amazônia. Servidor Node executa o programa compilado e o painel mostra benchmark de 120 medições, mapa 3D em canvas com projeção própria e linha do tempo das capturas. Sem bibliotecas externas. [Código](https://github.com/Silver1529/GeoSort) | `C` `Node.js` `JavaScript` `Docker` |
+| 🛰️ **GeoSort** | Compara 6 algoritmos de ordenação em C sobre um catálogo de imagens de satélite da Amazônia. Servidor Node executa o programa compilado e o painel mostra benchmark de 120 medições, mapa 3D em canvas com projeção própria e linha do tempo das capturas. Sem bibliotecas externas. [Demo](https://geosort.onrender.com/) · [Código](https://github.com/Silver1529/GeoSort) | `C` `Node.js` `JavaScript` `Docker` |
 | ⏱️ **SyncRoutine** | Rastreador de tempo e performance pessoal. API NestJS e painel Next.js sobre MongoDB Atlas, com contratos Zod compartilhados entre web e o futuro app mobile. Relatórios diário, semanal, mensal e anual agregados no fuso do usuário. | `NestJS` `Next.js` `MongoDB` `Zod` |
 | 🎲 **D20 Software House** | Portfólio de software house com abertura em WebGL: um icosaedro real de 20 faces numeradas cai, quica e crava no 20. A orientação de aterrissagem sai de um quaternion (`setFromUnitVectors`), não de tentativa e erro — erro medido de 4.4e-16. Contraste WCAG AA calculado, não estimado. | `Three.js` `React 19` `TypeScript` `Vite` |
 | 🎮 **CRUD Dungeon** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real rodando em MySQL na AWS. | `Next.js` `TypeScript` `Kaplay` `MySQL` `AWS` |
