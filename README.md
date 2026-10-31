@@ -42,15 +42,15 @@ const miguel = {
 
 <div align="center">
 
-**Front-end**
+### Front-end
 
 <img alt="Next.js, React, TypeScript, Three.js, Tailwind, HTML, CSS" src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,tailwind,html,css" />
 
-**Back-end**
+### Back-end
 
 <img alt="NestJS, Node.js, Python, Express, Selenium" src="https://skillicons.dev/icons?i=nestjs,nodejs,python,express,selenium" />
 
-**Dados & Infra**
+### Dados & Infra
 
 <img alt="MongoDB, PostgreSQL, MySQL, AWS, Docker, Git, GitHub" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,docker,git,github" />
 
@@ -61,10 +61,11 @@ const miguel = {
 ## Projetos
 
 | Projeto | O que é | Stack |
-| :--- | :--- | :--- |
+| --- | --- | --- |
+| 🛰️ **GeoSort** | Compara 6 algoritmos de ordenação em C sobre um catálogo de imagens de satélite da Amazônia. Servidor Node executa o programa compilado e o painel mostra benchmark de 120 medições, mapa 3D em canvas com projeção própria e linha do tempo das capturas. Sem bibliotecas externas. [Código](https://github.com/Silver1529/GeoSort) | `C` `Node.js` `JavaScript` `Docker` |
 | ⏱️ **SyncRoutine** | Rastreador de tempo e performance pessoal. API NestJS e painel Next.js sobre MongoDB Atlas, com contratos Zod compartilhados entre web e o futuro app mobile. Relatórios diário, semanal, mensal e anual agregados no fuso do usuário. | `NestJS` `Next.js` `MongoDB` `Zod` |
-| 🎲 **[D20 Software House](https://d20-software-house.vercel.app/)** | Portfólio de software house com abertura em WebGL: um icosaedro real de 20 faces numeradas cai, quica e crava no 20. A orientação de aterrissagem sai de um quaternion (`setFromUnitVectors`), não de tentativa e erro — erro medido de `4.4e-16`. Contraste WCAG AA calculado, não estimado. | `Three.js` `React 19` `TypeScript` `Vite` |
-| 🎮 **[CRUD Dungeon](https://crud-dungeon.vercel.app/)** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real rodando em MySQL na AWS. | `Next.js` `TypeScript` `Kaplay` `MySQL` `AWS` |
+| 🎲 **D20 Software House** | Portfólio de software house com abertura em WebGL: um icosaedro real de 20 faces numeradas cai, quica e crava no 20. A orientação de aterrissagem sai de um quaternion (`setFromUnitVectors`), não de tentativa e erro — erro medido de 4.4e-16. Contraste WCAG AA calculado, não estimado. | `Three.js` `React 19` `TypeScript` `Vite` |
+| 🎮 **CRUD Dungeon** | Mini-jogo 2D educacional que ensina CRUD jogando — SQL real rodando em MySQL na AWS. | `Next.js` `TypeScript` `Kaplay` `MySQL` `AWS` |
 | 💰 **Coinnect** | Painel financeiro familiar full-stack, com segurança como requisito central. | `NestJS` `Next.js` `MongoDB` |
 | 🔌 **CRM Extensões** | Extensão de navegador integrando Google APIs para automatizar rotinas de vendas. | `React` `Node.js` `Chrome API` |
 | 🌍 **Eco Calc** | Calculadora de pegada de carbono ajustada ao cenário brasileiro. | `TypeScript` `Next.js` `Vercel` |
@@ -89,10 +90,14 @@ const miguel = {
 <details>
 <summary><b>Mais métricas</b></summary>
 <br>
+
 <img alt="Estatísticas gerais" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Silver1529&theme=tokyonight" />
 <img alt="Horários mais produtivos" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Silver1529&theme=tokyonight&utcOffset=-3" />
+
 <br><br>
+
 <img alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Silver1529&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
 </details>
 
 </div>
@@ -102,12 +107,12 @@ const miguel = {
 ## Atividade
 
 <div align="center">
-  <img alt="Gráfico de contribuições em animação de cobrinha" src="https://raw.githubusercontent.com/Silver1529/Silver1529/output/snake.svg" />
+
+<img alt="Gráfico de contribuições em animação de cobrinha" src="https://raw.githubusercontent.com/Silver1529/Silver1529/output/snake.svg" />
+
 </div>
 
 <br>
-
----
 
 <div align="center">
 
